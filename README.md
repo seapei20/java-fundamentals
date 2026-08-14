@@ -8,6 +8,7 @@ A collection of small Java examples covering core language fundamentals.
 - [02 - Control Flow](./02-control-flow) — if/else, switch statements
 - [03 - Loops](./03-loops) — for, while, do-while loops
 - [04 - Arrays](./04-arrays) — declaring, looping, and modifying arrays
+- [05 - Methods](./05-methods) — parameters, return values, overloading
 
 ## How to run
 
